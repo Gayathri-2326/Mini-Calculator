@@ -37,3 +37,8 @@ Make sure you have **Python 3.x** installed. Then run:
 
 ```bash
 python calculator.py
+
+Here’s my project screenshot:
+
+![Mini Calculator](Images/screenshot)
+
